@@ -1,0 +1,3 @@
+[submodule "th-ECDSA"]
+	path = th-ECDSA
+	url = https://github.com/KZen-networks/multi-party-ecdsa
